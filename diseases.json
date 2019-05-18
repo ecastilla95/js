@@ -1,0 +1,42 @@
+[
+  {
+    "Cause": "Heart Disease",
+    "Donations (Millions of USD)": 54.1,
+    "Deaths": 596577
+  },
+  {
+    "Cause": "Chronic Obstructive Pulmonary Disease",
+    "Donations (Millions of USD)": 7,
+    "Deaths": 142942
+  },
+  {
+    "Cause": "Diabetes",
+    "Donations (Millions of USD)": 4.2,
+    "Deaths": 73831
+  },
+  {
+    "Cause": "Breast Cancer",
+    "Donations (Millions of USD)": 257.9,
+    "Deaths": 41374
+  },
+  {
+    "Cause": "Suicide",
+    "Donations (Millions of USD)": 3.2,
+    "Deaths": 39518
+  },
+  {
+    "Cause": "Prostate Cancer",
+    "Donations (Millions of USD)": 147,
+    "Deaths": 21176
+  },
+  {
+    "Cause": "HIV AIDS",
+    "Donations (Millions of USD)": 14,
+    "Deaths": 7683
+  },
+  {
+    "Cause": "Motor Neuron Disease (incl. ALS)",
+    "Donations (Millions of USD)": 100,
+    "Deaths": 6849
+  }
+]
